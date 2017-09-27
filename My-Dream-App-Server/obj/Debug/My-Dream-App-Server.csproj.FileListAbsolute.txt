@@ -28,7 +28,6 @@ C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\bin\Newtonsoft.Jso
 C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\bin\System.Net.Http.Formatting.xml
 C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\bin\System.Web.Http.xml
 C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\bin\System.Web.Http.WebHost.xml
-C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\obj\Debug\My-Dream-App-Server.csprojResolveAssemblyReference.cache
 C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\obj\Debug\My-Dream-App-Server.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\obj\Debug\My-Dream-App-Server.dll
 C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\obj\Debug\My-Dream-App-Server.pdb
