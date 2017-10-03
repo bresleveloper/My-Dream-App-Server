@@ -13,7 +13,10 @@ namespace My_Dream_App_Server.Controllers
         {
             new Product { Id = 1, Name = "Tomato Soup", Category = "Groceries", Price = 1 },
             new Product { Id = 2, Name = "Yo-yo", Category = "Toys", Price = 3.75M },
-            new Product { Id = 3, Name = "Hammer", Category = "Hardware", Price = 16.99M }
+            new Product { Id = 3, Name = "Hammer", Category = "Hardware", Price = 16.99M },
+            new Product { Id = 4, Name = "Star", Category = "Heavens", Price = 116.99M },
+            new Product { Id = 5, Name = "Hero", Category = "Angular", Price = 216.99M },
+            new Product { Id = 6, Name = "Dream", Category = "Heavens", Price = 316.99M }
         };
 
         public IEnumerable<Product> GetAllProducts()

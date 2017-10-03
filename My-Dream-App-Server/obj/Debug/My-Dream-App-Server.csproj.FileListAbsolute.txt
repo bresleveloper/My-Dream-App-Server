@@ -31,3 +31,4 @@ C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\bin\System.Web.Htt
 C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\obj\Debug\My-Dream-App-Server.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\obj\Debug\My-Dream-App-Server.dll
 C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\obj\Debug\My-Dream-App-Server.pdb
+C:\Users\admin\source\My-Dream-App-Server\My-Dream-App-Server\obj\Debug\My-Dream-App-Server.csprojResolveAssemblyReference.cache
